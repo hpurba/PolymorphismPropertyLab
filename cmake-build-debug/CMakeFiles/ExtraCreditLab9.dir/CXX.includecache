@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/Commercial.h
+Property.h
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/Property.h
+
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/Property.h
+iostream
+-
+string
+-
+
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/Residential.h
+Property.h
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/Property.h
+
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+vector
+-
+iomanip
+-
+Property.h
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/Property.h
+Residential.h
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/Residential.h
+Commercial.h
+C:/Users/hikar/CLionProjects/ExtraCreditLab9/Commercial.h
+
