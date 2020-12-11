@@ -1,12 +1,12 @@
 All properties:
-Address: 129-Avatar-Lane. Rental. Estimated value: 5e+06. A Residential Property. NOT occupied.
-Address: 24-Secret-Tunnel-Turnpike. NOT rental. Estimated value: 2.99534e+06. A Commercial Property. NOT in a discount zone.
-Address: 23-Metal-Bend. Rental. Estimated value: 2.46688e+07. A Commercial Property. In a discount zone with discount of: 0.2%.
-Address: 85-Sparky-Sparky-Boom-Village. NOT rental. Estimated value: 7.33421e+06. A Residential Property. NOT occupied.
-Address: Banana-Onion-Road. NOT rental. Estimated value: 345678. A Residential Property. Occupied.
-Address: 42-Iris-Way. Rental. Estimated value: 200000. A Residential Property. Occupied.
-Address: 350-Sea-Towers. NOT rental. Estimated value: 1.23457e+06. A Commercial Property. In a discount zone with discount of: 0.205%.
-Address: 12-Spirit-Way. Rental. Estimated value: 7.72994e+07. A Commercial Property. NOT in a discount zone.
+Address: 129-Avatar-Lane. Rental. Estimated value: 5000000.00. A Residential Property. NOT occupied.
+Address: 24-Secret-Tunnel-Turnpike. NOT rental. Estimated value: 2995342.00. A Commercial Property. NOT in a discount zone.
+Address: 23-Metal-Bend. Rental. Estimated value: 24668832.00. A Commercial Property. In a discount zone with discount of: 0.20%.
+Address: 85-Sparky-Sparky-Boom-Village. NOT rental. Estimated value: 7334211.00. A Residential Property. NOT occupied.
+Address: Banana-Onion-Road. NOT rental. Estimated value: 345678.00. A Residential Property. Occupied.
+Address: 42-Iris-Way. Rental. Estimated value: 200000.00. A Residential Property. Occupied.
+Address: 350-Sea-Towers. NOT rental. Estimated value: 1234567.00. A Commercial Property. In a discount zone with discount of: 0.20%.
+Address: 12-Spirit-Way. Rental. Estimated value: 77299351.00. A Commercial Property. NOT in a discount zone.
 
 TAX REPORT:
 ** Taxes due on property at: 129-Avatar-Lane

@@ -1,7 +1,9 @@
 //
 // Created by Hikaru Purba on 12/9/20.
 //
+#include <iostream>
 #include <iomanip>
+#include <sstream>
 #include "Commercial.h"
 using namespace std;
 
@@ -15,15 +17,15 @@ Commercial::Commercial(const bool rental, const int estimatedValue, const string
 }
 
 const string Commercial::ToString(){
-    cout << fixed;
-    cout << setprecision(2);
-
-    std::stringstream ss;
+    stringstream ss;
 
     string rentalString = "Rental. ";
     if(rental == false) {
         rentalString = "NOT rental. ";
     }
+
+    ss << fixed;
+    ss << setprecision(2);
 
     // print out the property
     ss << "Address: " << propertyId << ". " << rentalString << "Estimated value: " << estimatedValue << ". A Commercial Property. ";

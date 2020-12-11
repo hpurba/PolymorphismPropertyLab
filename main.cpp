@@ -24,10 +24,10 @@ int main () {
     cin >> inputFileName;
     cout << endl << endl;
 
-    ifstream myfile(inputFileName.c_str());
-    if (myfile.is_open())
+    ifstream inputfile(inputFileName.c_str());
+    if (inputfile.is_open())
     {
-        while ( getline (myfile,line) )
+        while ( getline (inputfile, line) )
         {
             stringstream ss(line);
             string propertyType;
@@ -104,7 +104,7 @@ int main () {
                 properties.push_back(new Commercial(rental, estimatedPropertyValue, propertyID, taxesDiscounted, discountRate));
             }
         }
-        myfile.close();
+        inputfile.close();
     }
     else {
         cout << "Unable to open file";

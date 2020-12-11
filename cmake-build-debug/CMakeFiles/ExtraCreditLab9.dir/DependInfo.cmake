@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/hikar/CLionProjects/ExtraCreditLab9/Commercial.cpp" "C:/Users/hikar/CLionProjects/ExtraCreditLab9/cmake-build-debug/CMakeFiles/ExtraCreditLab9.dir/Commercial.cpp.obj"
-  "C:/Users/hikar/CLionProjects/ExtraCreditLab9/Property.cpp" "C:/Users/hikar/CLionProjects/ExtraCreditLab9/cmake-build-debug/CMakeFiles/ExtraCreditLab9.dir/Property.cpp.obj"
-  "C:/Users/hikar/CLionProjects/ExtraCreditLab9/Residential.cpp" "C:/Users/hikar/CLionProjects/ExtraCreditLab9/cmake-build-debug/CMakeFiles/ExtraCreditLab9.dir/Residential.cpp.obj"
-  "C:/Users/hikar/CLionProjects/ExtraCreditLab9/main.cpp" "C:/Users/hikar/CLionProjects/ExtraCreditLab9/cmake-build-debug/CMakeFiles/ExtraCreditLab9.dir/main.cpp.obj"
+  "/Users/hikarupurba/CLionProjects/PolymorphismPropertyLab/Commercial.cpp" "/Users/hikarupurba/CLionProjects/PolymorphismPropertyLab/cmake-build-debug/CMakeFiles/ExtraCreditLab9.dir/Commercial.cpp.o"
+  "/Users/hikarupurba/CLionProjects/PolymorphismPropertyLab/Property.cpp" "/Users/hikarupurba/CLionProjects/PolymorphismPropertyLab/cmake-build-debug/CMakeFiles/ExtraCreditLab9.dir/Property.cpp.o"
+  "/Users/hikarupurba/CLionProjects/PolymorphismPropertyLab/Residential.cpp" "/Users/hikarupurba/CLionProjects/PolymorphismPropertyLab/cmake-build-debug/CMakeFiles/ExtraCreditLab9.dir/Residential.cpp.o"
+  "/Users/hikarupurba/CLionProjects/PolymorphismPropertyLab/main.cpp" "/Users/hikarupurba/CLionProjects/PolymorphismPropertyLab/cmake-build-debug/CMakeFiles/ExtraCreditLab9.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

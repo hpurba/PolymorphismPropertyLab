@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ExtraCreditLab9.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\ExtraCreditLab9.dir/objects.a @CMakeFiles\ExtraCreditLab9.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\ExtraCreditLab9.dir/objects.a -Wl,--no-whole-archive  -o ExtraCreditLab9.exe -Wl,--out-implib,libExtraCreditLab9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ExtraCreditLab9.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ExtraCreditLab9.dir/main.cpp.o CMakeFiles/ExtraCreditLab9.dir/Commercial.cpp.o CMakeFiles/ExtraCreditLab9.dir/Property.cpp.o CMakeFiles/ExtraCreditLab9.dir/Residential.cpp.o  -o ExtraCreditLab9 

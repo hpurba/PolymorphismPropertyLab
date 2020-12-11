@@ -3,15 +3,15 @@
 //
 #include <iostream>
 #include <iomanip>
+#include <sstream>
 #include "Residential.h"
 
 using namespace std;
 
 const string Residential::ToString(){
-    cout << fixed;
-    cout << setprecision(2);
 
-    std::stringstream ss;
+
+    stringstream ss;
 
     string rentalString = "Rental. ";
     if(rental == false) {
@@ -22,7 +22,8 @@ const string Residential::ToString(){
     if(occupied == false) {
         occupiedString = "NOT occupied.";
     }
-
+    ss << fixed;
+    ss << setprecision(2);
     ss << "Address: " << propertyId << ". " << rentalString << "Estimated value: " << estimatedValue << ". A Residential Property. " << occupiedString << endl;
     return ss.str();
 }
