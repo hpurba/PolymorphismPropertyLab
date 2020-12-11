@@ -9,12 +9,10 @@
 #include "Property.h"
 #include "Residential.h"
 #include "Commercial.h"
+using namespace std;
 
 int partition(vector<Property *> &vector, int low, int high);
-
 void quicksort(vector<Property *> &vector, int i, int i1);
-
-using namespace std;
 
 int main () {
     vector<Property*> properties;
